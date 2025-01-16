@@ -52,3 +52,7 @@ Below are some of the relevant courses I have taken:
 
 ## Projects
 - None at the moment, but I am keen to participate in projects that allow me to apply my technical and teamwork skills.
+
+## External Links
+- **GitHub Repository**: [TIS e-Portfolio](https://github.com/liu-ruoyang/TIS-e-portfolio)
+- **LinkedIn**: Not available yet
